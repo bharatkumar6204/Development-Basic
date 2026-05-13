@@ -60,3 +60,29 @@ h1{
     padding-left: 20px;
     padding-top: 25px;
 }
+/* Another div property */
+#parent{
+    height: 200px;
+    width: 400px;
+    background-color: blueviolet;
+}
+#child{
+    height: 50%; /*pare  t ke acoding */
+    width: 50%;
+    background-color:red ;
+}
+/* button */
+button{
+    margin: 40px;
+    font-size: 20px;
+    padding: 10px 20px;
+    background-color: lightseagreen;
+    font-weight: 600;
+    /* border: 2px solid red; */
+    border: none;
+    border-radius: 20px;
+}
+button:hover{
+    background-color: red;
+    color: aliceblue;
+}
