@@ -7,6 +7,9 @@ html,body{
     height: 100%;
     width: 100%;
 }
+
+
+
 .container{
     display: flex;
     justify-content: space-between;
@@ -37,4 +40,13 @@ text-decoration: none;
 color: white;
 font-weight: 400;
 font-size: 20px;
+}
+/* property*/
+h1{
+    color: royalblue;
+    background-color: black;
+    font-size: 100px;
+    font-family:  sans-serif;
+    font-style: italic;
+    text-align: center;
 }
