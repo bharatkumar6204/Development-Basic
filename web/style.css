@@ -111,3 +111,22 @@ top: 50%;
 left: 50%;
 z-index: 10;/*jiska jyada hoga wo uper ayega*/
 }
+
+/*absolute */
+h2{
+position: absolute;
+left: 50%;
+top: 50%;
+transform: translate(-50%, -50%);
+z-index: 11;
+text-align: center;
+font-size: 50px;
+}
+h2 span{
+    background-color: brown;
+    color: white;
+    font-weight: 400;
+    padding: 8px 15px;
+    border-radius: 5px;
+
+}
