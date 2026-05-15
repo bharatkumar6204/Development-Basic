@@ -1,1 +1,5 @@
-alert('welcome')
+// variable
+
+var a = 10
+console.log(a);
+
