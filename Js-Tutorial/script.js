@@ -1,5 +1,6 @@
 // variable
 
-var a = 10
+var a = "Bharat"
+
 console.log(a);
 
